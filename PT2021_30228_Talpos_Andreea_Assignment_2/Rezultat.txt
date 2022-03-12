@@ -1,0 +1,144 @@
+Current time: 0
+Waiting clients: 
+(5 , 1 , 2) (1 , 2 , 3) (3 , 2 , 2) (4 , 2 , 2) (6 , 2 , 4) (7 , 2 , 2) (10 , 2 , 4) (2 , 3 , 3) (8 , 3 , 3) (9 , 3 , 3) 
+Coada 0:Closed
+Coada 1:Closed
+
+
+
+Current time: 1
+Waiting clients: 
+(1 , 2 , 3) (3 , 2 , 2) (4 , 2 , 2) (6 , 2 , 4) (7 , 2 , 2) (10 , 2 , 4) (2 , 3 , 3) (8 , 3 , 3) (9 , 3 , 3) 
+Coada 0:(5 , 1 , 2)
+Coada 1:Closed
+
+
+
+Current time: 2
+Waiting clients: 
+(2 , 3 , 3) (8 , 3 , 3) (9 , 3 , 3) 
+Coada 0:(5 , 1 , 1)(3 , 2 , 2)(6 , 2 , 4)
+Coada 1:(1 , 2 , 3)(4 , 2 , 2)(7 , 2 , 2)(10 , 2 , 4)
+
+
+
+Current time: 3
+Waiting clients: 
+
+Coada 0:(6 , 2 , 4)(3 , 2 , 2)(2 , 3 , 3)(8 , 3 , 3)
+Coada 1:(1 , 2 , 2)(4 , 2 , 2)(7 , 2 , 2)(10 , 2 , 4)(9 , 3 , 3)
+
+
+
+Current time: 4
+Waiting clients: 
+
+Coada 0:(6 , 2 , 3)(3 , 2 , 2)(2 , 3 , 3)(8 , 3 , 3)
+Coada 1:(1 , 2 , 1)(4 , 2 , 2)(7 , 2 , 2)(10 , 2 , 4)(9 , 3 , 3)
+
+
+
+Current time: 5
+Waiting clients: 
+
+Coada 0:(6 , 2 , 2)(3 , 2 , 2)(2 , 3 , 3)(8 , 3 , 3)
+Coada 1:(4 , 2 , 2)(10 , 2 , 4)(7 , 2 , 2)(9 , 3 , 3)
+
+
+
+Current time: 6
+Waiting clients: 
+
+Coada 0:(6 , 2 , 1)(3 , 2 , 2)(2 , 3 , 3)(8 , 3 , 3)
+Coada 1:(4 , 2 , 1)(10 , 2 , 4)(7 , 2 , 2)(9 , 3 , 3)
+
+
+
+Current time: 7
+Waiting clients: 
+
+Coada 0:(6 , 2 , 1)(3 , 2 , 2)(2 , 3 , 3)(8 , 3 , 3)
+Coada 1:(4 , 2 , 1)(10 , 2 , 4)(7 , 2 , 2)(9 , 3 , 3)
+
+
+
+Current time: 8
+Waiting clients: 
+
+Coada 0:(3 , 2 , 2)(8 , 3 , 3)(2 , 3 , 3)
+Coada 1:(10 , 2 , 4)(9 , 3 , 3)(7 , 2 , 2)
+
+
+
+Current time: 9
+Waiting clients: 
+
+Coada 0:(3 , 2 , 1)(8 , 3 , 3)(2 , 3 , 3)
+Coada 1:(10 , 2 , 3)(9 , 3 , 3)(7 , 2 , 2)
+
+
+
+Current time: 10
+Waiting clients: 
+
+Coada 0:(2 , 3 , 3)(8 , 3 , 3)
+Coada 1:(10 , 2 , 2)(9 , 3 , 3)(7 , 2 , 2)
+
+
+
+Current time: 11
+Waiting clients: 
+
+Coada 0:(2 , 3 , 2)(8 , 3 , 3)
+Coada 1:(10 , 2 , 1)(9 , 3 , 3)(7 , 2 , 2)
+
+
+
+Current time: 12
+Waiting clients: 
+
+Coada 0:(2 , 3 , 1)(8 , 3 , 3)
+Coada 1:(7 , 2 , 2)(9 , 3 , 3)
+
+
+
+Current time: 13
+Waiting clients: 
+
+Coada 0:(8 , 3 , 3)
+Coada 1:(7 , 2 , 1)(9 , 3 , 3)
+
+
+
+Current time: 14
+Waiting clients: 
+
+Coada 0:(8 , 3 , 2)
+Coada 1:(9 , 3 , 3)
+
+
+
+Current time: 15
+Waiting clients: 
+
+Coada 0:(8 , 3 , 1)
+Coada 1:(9 , 3 , 2)
+
+
+
+Current time: 16
+Waiting clients: 
+
+Coada 0:Closed
+Coada 1:(9 , 3 , 1)
+
+
+
+Current time: 17
+Waiting clients: 
+
+Coada 0:Closed
+Coada 1:Closed
+
+
+
